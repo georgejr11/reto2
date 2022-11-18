@@ -1,2 +1,2 @@
 # Aplicaci-n-reto-2
-//poner link del video subido al git
+https://github.com/georgejr11/reto2/blob/master/Reto_2/recording-2022-11-17-20-28-12.mp4
